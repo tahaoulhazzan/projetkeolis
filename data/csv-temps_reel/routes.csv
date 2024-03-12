@@ -1,17 +1,17 @@
 ﻿route_id;agency_id;route_short_name;route_long_name;route_type;route_color;route_text_color
-100;Elbeuf;100;Champ de Foire <> Casanova;3;FDC300;000000
-101;Elbeuf;101;Champ de Foire <> Pôle Multimodal-Cotoni;3;FDC300;000000
-102;Elbeuf;102;Champ de Foire <> Beau Site;3;FDC300;000000
-103;Elbeuf;103;Collège Cousteau <> Moulin Saint-Etienne;3;FDC300;000000
-104;Elbeuf;104;Collège J. Brel <> Casanova;3;FDC300;000000
-106;Elbeuf;106;Collège J. Brel <> Beau Site;3;FDC300;000000
-501;Elbeuf;A;Mairie de Saint-Pierre-Les-Elbeuf <> Mairie de Cléon;3;CD1821;FFFFFF
-502;Elbeuf;B;Parc Saint-Cyr <> Ecole de La Londe;3;354093;FFFFFF
-503;Elbeuf;C;Bosc Tard <> Les Arches;3;9E2C87;FFFFFF
-504;Elbeuf;E;Mairie de Cléon <> Moulin Saint-Etienne;3;00A266;FFFFFF
-505;Elbeuf;F;Z.I. L'Oison <> Pôle Multimodal d'Oissel;3;ED6896;FFFFFF
-506;Elbeuf;D1;Parc Saint-Cyr <> Mairie de Cléon;3;75462D;FFFFFF
-507;Elbeuf;D2;Mairie de Saint-Pierre-Lès-Elbeuf <> Pôle Multimodal d'Oissel;3;98C21D;000000
-9;Elbeuf;F9;Champ de Foire <> Théâtre des Arts;3;258BCB;FFFFFF
-508;Elbeuf;G;Champ de Foire <> Route du Bac;3;D1D035;000000
-311;Elbeuf;311;Lycée Val de Seine <> Champ de Foire;3;FDC300;000000
+100;Elbeuf;100;Champ de Foire <> Casanova;3;FDC300;0
+101;Elbeuf;101;Champ de Foire <> Pôle Multimodal-Cotoni;3;FDC300;0
+102;Elbeuf;102;Champ de Foire <> Beau Site;3;FDC300;0
+103;Elbeuf;103;Collège Cousteau <> Moulin Saint-Etienne;3;FDC300;0
+104;Elbeuf;104;Collège J. Brel <> Casanova;3;FDC300;0
+106;Elbeuf;106;Collège J. Brel <> Beau Site;3;FDC300;0
+111;Elbeuf;A;Mairie de Saint-Pierre-Les-Elbeuf <> Mairie de Cléon;3;CD1821;FFFFFF
+112;Elbeuf;B;Parc Saint-Cyr <> Ecole de La Londe;3;354093;FFFFFF
+113;Elbeuf;C;Bosc Tard <> Les Arches;3;9E2C87;FFFFFF
+114;Elbeuf;E;Mairie de Cléon <> Moulin Saint-Etienne;3;00A266;FFFFFF
+115;Elbeuf;F;Z.I. L'Oison <> Pôle Multimodal d'Oissel;3;ED6896;FFFFFF
+116;Elbeuf;D1;Parc Saint-Cyr <> Mairie de Cléon;3;75462D;FFFFFF
+117;Elbeuf;D2;Mairie de Saint-Pierre-Lès-Elbeuf <> Pôle Multimodal d'Oissel;3;98C21D;0
+118;Elbeuf;F9;Champ de Foire <> Théâtre des Arts;3;258BCB;FFFFFF
+119;Elbeuf;G;Champ de Foire <> Route du Bac;3;D1D035;0
+311;Elbeuf;311;Lycée Val de Seine <> Champ de Foire;3;FDC300;0
